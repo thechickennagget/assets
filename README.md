@@ -1,2 +1,0 @@
-# Assets
-### module assets ...etc
